@@ -9,7 +9,7 @@
 
 - html & css
 
-## Live Demo (if available)
+## Live Demo 
 
 [Live Demo Link](https://hello-microverse-ova.netlify.app)
 
