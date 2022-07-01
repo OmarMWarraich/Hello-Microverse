@@ -3,13 +3,11 @@
 
 # Project Name
 
-> Description the project.
+> Hello - Microverse.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- html & css
 
 ## Live Demo (if available)
 
@@ -22,31 +20,23 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
 ### Setup
+
+- Clone the repository from [GitHub](https://github.com/OmarMWarraich/Hello-Microverse).
+- Change to the directory of the repository.
 
 ### Install
 
-### Usage
-
-### Run tests
-
-### Deployment
+- Install the dependencies using `npm install`.
+- Run on live server.
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@OmarMWarraich](https://github.com/OmarMWarraich)
+- Twitter: [@omarwarraich1](https://twitter.com/@omarwarraich1)
+- LinkedIn: [Omar Mohammad](https://www.linkedin.com/in/omar-mohammad-a9902847/)
 
 ## 🤝 Contributing
 
